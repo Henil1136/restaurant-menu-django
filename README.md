@@ -1,29 +1,58 @@
-# Restaurant Menu Django App
+# Restaurant Menu Django Project
 
-This is a dynamic restaurant web application built using Django.
+## 📌 Description
 
-## Features
-- Menu page displaying items from database
-- Individual menu item pages
-- Django Admin panel for managing menu items
-- Dynamic templates using Django Template Language
+This is a Django-based web application to manage and display a restaurant menu.
 
-## Tech Stack
-- Python
-- Django
-- SQLite
-- HTML, CSS
+## 🚀 Features
 
-## How to Run
+* Add, update, delete menu items
+* Display menu items to users
+* Admin panel for management
 
-1. Clone the repository
-2. Navigate to project folder
-3. Run:
-   python manage.py migrate
-   python manage.py runserver
+## 🛠 Tech Stack
 
-4. Open browser:
-   http://127.0.0.1:8000/
+* Python
+* Django
+* SQLite
 
-## Note
-This project was built as part of a Django learning project.
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```
+git clone https://github.com/Henil1136/restaurant-menu-django.git
+```
+
+2. Navigate to project:
+
+```
+cd restaurant-menu-django
+```
+
+3. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+4. Run server:
+
+```
+python manage.py runserver
+
+```
+
+5. Open browser:
+
+```
+http://127.0.0.1:8000/
+```
+
+## 📷 Screenshots
+
+(Add screenshots here later)
+
+## 👨‍💻 Author
+
+Henil Prajapati
