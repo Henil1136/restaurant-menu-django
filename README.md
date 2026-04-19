@@ -51,7 +51,6 @@ http://127.0.0.1:8000/
 
 ## 📷 Screenshots
 
-(Add screenshots here later)
 
 ## 👨‍💻 Author
 
